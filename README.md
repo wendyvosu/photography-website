@@ -1,3 +1,3 @@
 # photography-website
 
-A sample resume
+A photography website for a client
