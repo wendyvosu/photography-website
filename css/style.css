@@ -1,0 +1,53 @@
+body {
+    margin: 0px; 
+}
+
+nav {
+    text-align: right;
+    font-family: "Garamond", serif;
+    text-transform: uppercase;
+    word-spacing: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    color: white;
+    padding: 30px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: #d0d2d6;
+}
+
+a:active {
+    color: #d0d2d6;
+}
+
+img {
+    width: 100%;
+}
+
+.social {
+    width: 40px;
+    height: auto;
+}
+
+#facebook {
+    width: 70px;
+    height: auto;
+    margin-left: -15px;
+}
+
+#youtube {
+    width: 35px;
+    height: auto;
+    margin-left: -10px;
+    border: 0px;
+}
